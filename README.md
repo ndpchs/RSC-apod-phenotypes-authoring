@@ -1,1 +1,5 @@
-# rsc_test_pages_authoring
+# rsc_phenotypes_authoring
+
+This is the authored data for the RCGP RSC phenotypes and codelists repository web pages
+
+The data is processed by the code held in the rsc_phenotypes_code repo
