@@ -1,4 +1,4 @@
-# rsc_phenotypes_authoring
+# RSC-apod-phenotypes-authoring
 
 This is the authored data for the RCGP RSC phenotypes and codelists repository web pages
 
